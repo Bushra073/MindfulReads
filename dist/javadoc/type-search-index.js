@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"mindfulreads","l":"AppFrame"},{"p":"mindfulreads","l":"Book"},{"p":"mindfulreads","l":"Main"},{"p":"mindfulreads","l":"ManageBooksFrame"},{"p":"mindfulreads","l":"MoodRecommendFrame"}];updateSearchResults();
